@@ -1,10 +1,10 @@
 # Shlomo Heler
 ___
 ## A little about me...
-- Yeshiva student & programmer
-- Hebrew & English
+- Yeshiva student, programmer
+- Hebrew, English
 - israel
-- Software & Apps & Plugins & Scripts
+- Software, Apps, Plugins, Scripts
 
 ## Programming languages
 ___
