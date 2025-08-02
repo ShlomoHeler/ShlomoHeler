@@ -20,5 +20,7 @@ ___
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-007BFF)
 ![macOS Catalina](https://img.shields.io/badge/-macOS%20Catalina-abb3b6?logo=apple&logoColor=#abb3b6)
 
+___
+
 Did you like my work?
 [Buy me coffee](https://ko-fi.com/shlomoheler)☕
