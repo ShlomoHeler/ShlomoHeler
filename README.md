@@ -21,4 +21,4 @@ ___
 ![macOS Catalina](https://img.shields.io/badge/-macOS%20Catalina-abb3b6?logo=apple&logoColor=#abb3b6)
 
 Did you like my work?
-[Buy me coffee](https://ko-fi.com/shlomoheler)
+[Buy me coffee](https://ko-fi.com/shlomoheler)☕
