@@ -16,7 +16,7 @@ ___
 
 ## Work environments
 ___
-![Liux ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Linux Ubuntu](https://img.shields.io/badge/-Linux_Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-007BFF)
 ![macOS Catalina](https://img.shields.io/badge/-macOS%20Catalina-abb3b6?logo=apple&logoColor=#abb3b6)
 
