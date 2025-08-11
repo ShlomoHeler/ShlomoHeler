@@ -9,10 +9,10 @@ ___
 ## Programming languages
 ___
 ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Batch](https://img.shields.io/badge/->__%20Batch-000000)
 ![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-css-663399?logo=css&logoColor=white)
-![Batch](https://img.shields.io/badge/->__%20Batch-000000)
 
 ## Work environments
 ___
