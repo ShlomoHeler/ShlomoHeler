@@ -1,6 +1,6 @@
 # Shlomo Heler
 ___
-## A little about me...
+## about me...
 - Yeshiva student, programmer
 - Hebrew, English
 - israel
